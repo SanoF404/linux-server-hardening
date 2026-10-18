@@ -1,0 +1,11 @@
+# Rapports d audit locaux
+reports/*.txt
+
+#fichiers temporaires
+*.tmp
+*.log
+
+# fichiers systeme et editeurs
+.DS_Store
+Thumbs.db
+*~
